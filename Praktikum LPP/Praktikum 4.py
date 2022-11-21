@@ -1,0 +1,10 @@
+>>> kalimat_starter = "Pada hari sabtu"
+>>> karakter = "jisoo jalan-jalan ke singapur"
+>>> waktu = "jisoo berangkat pada pukul 6 pagi"
+>>> story_plot = "Semuanya berjalan dengan lancar suatu ketika terdapat kejadian yang membuatnya terkejut"
+>>> tempat = "Di depan gerbang 1 bandara ada seseorang penumpang mengalami pertikaian dengan petugas bandara"
+>>> second_character = "Kedua orang itu bertikai karena pesawat terlambat hingga 6 jam"
+>>> usia = "Mereka terlihat berusia sekitar 25 tahun-an"
+>>> pekerjaan = " petugas itu tidak henti-hentinya mengeluarkan argumen"
+>>> f"{kalimat_starter} {karakter} {waktu} {story_plot} {tempat} {second_character} {usia} {pekerjaan}"
+'Pada hari sabtu jisoo jalan-jalan ke singapur jisoo berangkat pada pukul 6 pagi Semuanya berjalan dengan lancar suatu ketika terdapat kejadian yang membuatnya terkejut Di depan gerbang 1 bandara ada seseorang penumpang mengalami pertikaian dengan petugas bandara Kedua orang itu bertikai karena pesawat terlambat hingga 6 jam petugas itu tidak henti-hentinya mengeluarkan argumen'
